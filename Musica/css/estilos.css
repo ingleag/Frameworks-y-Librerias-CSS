@@ -1,0 +1,12 @@
+@media all and (max-width: 767px) {
+  .search{
+    visibility: collapse;
+  }
+  .nav_menu{
+    flex-direction: column!important;
+  }
+
+  .btn_menu{
+    width: 100%;
+  }
+}
